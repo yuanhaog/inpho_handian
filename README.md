@@ -22,11 +22,14 @@ Colin Allen — InPhO-XJTU 项目外方总负责人
 
 访问位于印第安纳大学inpho项目的主页：https://www.hypershelf.org/ 但是该页面中的汉典模型版本较为老旧。
 
+
 本文档并非程序、算法、项目，而是对建模所用参数组和建模对象语料库目录进行保存留底与公开化。
 
 LDA Topic Model的程序见：
 
 https://github.com/inpho/inpho
+
+
 
 该文档用以存储西安交通大学-人文社会科学学院-计算哲学实验室在2015到2020年间，在建模实践中发展发展出来的的一套LDA Topic Model的参数组。
 
