@@ -1,14 +1,16 @@
 # -
 西安交通大学 人文社会科学学院 计算哲学实验室
 
-Jaimie Murdock — 项目开发总负责人
+Jaimie Murdock — InPhO 项目开发技术负责人
 
-Colin Allen — InPhO 项目总负责人
+Colin Allen — InPhO-XJTU 项目外方总负责人
 
-王小红 — InPho-XJTU 项目负责人
+王小红 — InPho-XJTU 项目中方总负责人
+
+杨钊 - InPho-XJTU 项目开发技术负责人
 
     课题组合作交流：
-        王小红 副教授 邮箱：amandawxh@sina.com
+        王小红 邮箱：amandawxh@sina.com
         
         西安交通大学 人文社会科学学院 哲学系  
 
@@ -45,9 +47,9 @@ https://github.com/inpho/inpho
     IU Office of Vice Provost for Research
     Colin Allen西安交通大学讲座教授项目（the project on Colin Allen as the Chair Professor of Philosophy at XJTU）
 
-课题组关于Topic Model的成果：
+课题组关于Topic Model的成果（部分）：
 
-    Allen C, LUOc H, Murdock J, et al. Topic Modeling the Hàn diăn Ancient Classics (汉典古籍)[J]. Journal ISSN, 2017, 2371: 4549.
+    Allen C, Wang Xiaohong 课题组. Topic Modeling the Hàn diăn Ancient Classics (汉典古籍)[J]. Journal of Cultural Analytics, 2017-10-12.Article DOI: 10.22148/16.016;Dataset DOI: 10.7910/DVN/3QXX29
     Exploration and exploitation of Victorian science in Darwin’s reading notebooks”, Cognition, 159 (2017), pp. 117-126.
     Zhao Yang, Wei Xi, Kun Zhao, Jizhong Zhao, Xiaohong Wang, and Colin Allen, Topic Model Based Management Frame Authentication Using CSI, IEEE ICCCS 2018, （4th International Conference on Cloud Computing and Security）pp. 154-166.
     Ravenscroft A, Allen C. Finding and Interpreting Arguments: An Important Challenge for Humanities Computing and Scholarly Practice[J]. Digital Humanities Quarterly, 2019, 13(4).
