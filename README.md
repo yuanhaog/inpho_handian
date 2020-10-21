@@ -9,6 +9,8 @@ Colin Allen — InPhO-XJTU 项目外方总负责人
 
 杨钊 - InPho-XJTU 项目开发技术负责人
 
+高元昊 - Inpho-XJTU 项目研究生
+
     课题组合作交流：
         王小红 邮箱：amandawxh@sina.com
         
